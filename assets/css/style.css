@@ -1,1 +1,59 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+
+header{
+    margin:0;
+}
+
+#nav{
+    margin:0;
+
+}
+
+.cogs i{
+    font-size:40px;
+}
+
+.logo{
+    margin:0 auto;
+}
+
+.testimonials{
+    font-family:"Roboto", sans-serif;
+    border: 2px solid #525252;
+    padding-top:20px;
+    margin-top:20px;
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.main-image{
+background-repeat: no-repeat;
+
+}
+
+.uppercase{
+    text-transform:uppercase;
+}
+.about-us{
+ 
+    text-align: center;
+    padding:10px;
+}
+
+.about-us-heading{
+    text-align: center;
+}
+    
+
+
+
+/*--------------------Footer----------------*/
+
+footer{
+    background-color: #525252;
+    color:#fafafa;
+    min-height:120px;
+    margin:0;
+}
