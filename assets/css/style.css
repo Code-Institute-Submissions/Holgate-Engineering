@@ -1,24 +1,72 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700|Amita:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Amita:wght@700&display=swap');
 
 
-
+/*--------------------Header----------------*/
 header{
-    margin:0;
+    margin:0 auto 0;
 }
 
 #nav{
-    margin:0;
+    margin:0 auto 0;
 
+}
+
+.main-heading{
+    font-family:'Alfa Slab One';
+    font-size:30px;
+    text-transform: uppercase;
+    padding-top:5px;
+    color:rgba(9, 23, 226);
+    display:block;
 }
 
 .cogs i{
     font-size:40px;
+    display:block;
 }
 
+/*--------------------Main Image----------------*/
 .logo{
-    margin:0 auto;
+    
+    
+
 }
 
+.image{
+    background-color: #777777;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-height: 360px;
+    z-index:1;
+}
+
+
+
+.bubble{
+    background-color:rgba(9, 23, 226, 0.603);
+    width:300px;
+    height:180px;
+    border-radius:50%;
+    position:absolute;
+    right:20%;
+    bottom:10%;
+    z-index: 2;
+    
+    
+}
+
+.bubble p{
+    font-family:'Amita', cursive;
+    font-size:28px;
+    color:#fafafa;
+    padding-top:20px;
+    text-align:center;
+    vertical-align:middle;
+}
+
+/*--------------------Section----------------*/
 .testimonials{
     font-family:"Roboto", sans-serif;
     border: 2px solid #525252;
@@ -26,10 +74,17 @@ header{
     margin-top:20px;
     text-align:center;
     margin-bottom:20px;
+    margin-left:20px;
+    margin-right:20px;
+    padding-left:20px;
+    padding-right:20px;
 }
+
 
 .main-image{
 background-repeat: no-repeat;
+position:absolute;
+z-index:1;
 
 }
 
@@ -45,7 +100,51 @@ background-repeat: no-repeat;
 .about-us-heading{
     text-align: center;
 }
-    
+.testimonials-heading{
+    text-align:center;
+    display:block;
+} 
+
+
+
+.services{
+        padding-top:30px;
+    }
+
+/*--------------------Services----------------*/
+section{
+    padding-top:30px;
+    padding-bottom:30px;
+    padding-left:10px;
+}
+
+
+/*--------------------Form----------------*/
+
+.contact-heading {
+    font-family:"Exo", sans-serif;
+    font-weight: 300;
+    margin-top:25px;
+    margin-bottom:20px;
+}
+.center-form{
+    padding-top:10px;
+    margin:0 auto;
+    max-width:70%;
+
+}
+
+@media(min-width:992px){
+    .center-form{
+    padding-top:30px;
+    min-height:240px;
+    margin:0 auto;
+    max-width:50%;
+
+}
+}
+
+
 
 
 
@@ -56,4 +155,9 @@ footer{
     color:#fafafa;
     min-height:120px;
     margin:0;
+    text-align:center;
+}
+
+#footer-details{
+    padding-top:30px;
 }
