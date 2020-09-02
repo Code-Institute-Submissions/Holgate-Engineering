@@ -3,9 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" integrity="sha512-csw0Ma4oXCAgd/d4nTcpoEoz4nYvvnk21a8VA2h2dzhPAvjbUIK6V3si7/g/HehwdunqqW18RwCJKpD7rL67Xg==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="../assets/css/style.css" type="text/css">
     <title>Document</title>
 </head>
 <body>
+<header>
+    <div class="row no-gutters">
+    <div class="container">
+    <nav class="navbar navbar-light rounded-pill">
+    <div class="col-1 cogs">   
+    <i class="fa fa-cogs" aria-hidden="true"></i>
+    </div>
+    <div class="col-5">
+    <h1 class="main-heading">Holgate Engineering</h1>
+    </div>
+     <div class="col-4"> 
+
+        <ul id="nav" class="list-inline menucontainer">
+        <li class="col-4 col-sm-3 ul-menu-color-home list-inline-item menuitem">
+        <a href="index.html" class="hvr-sweep-to-bottom"><span>Home</span></a>
+        </li>
+        <li class="col-4 col-sm-3 ul-menu-color-resume list-inline-item menuitem">
+        <a href="services.html" class="hvr-sweep-to-bottom"><span>Services</span></a>
+        </li>
+        <li class="col-4 col-sm-3 ul-menu-color-contact list-inline-item menuitem">
+        <a href="contact.html" class="hvr-sweep-to-bottom"><span>Contact</span></a>
+        </li>
+        </ul>
+        
+        </div>
+        <div class="col-1 cogs">   
+    <i class="fa fa-cogs" aria-hidden="true"></i>
+    </div>
+    </nav>
+    </div>
+    </div>
+</header>
+
 <section class="container-fluid">
 <div class="row bg-color-contact">
 <div class="col">
@@ -18,10 +55,10 @@
 <div class="col">
 <input type="email" name="email" id="email" class="form-control" placeholder="Email Address" required>
 </div>
-<textarea rows="5" name="projectsummary" id="projectsummary" class="form-control" placeholder="Project Description" required></textarea>
+<textarea rows="5" name="requirements" id="requirements" class="form-control" placeholder="Requirements" required></textarea>
 <div class="form-row text-center">
 <div class="col">
-<button type="submit" class="btn btn-secondary">Send Project Request</button>
+<button type="submit" class="btn btn-secondary">Send Message</button>
 
 </div>
 </div>
@@ -31,6 +68,45 @@
 </div>
 
 </section>
+<footer class="container-fluid">
+<div class="row" id="footer-details">
+<div class="col-sm-4">
+<p class="inline-block">
+<span>Holgate Engineering</span><br>
+<span>Main Street </span><br>
+<span>Cononley </span><br> 
+<span>BD20 8LJ</span><br>
+</p>
+</div>
+
+<div class="col-4">
+<p class="inline-block">
+<i class="fa fa-phone" aria-hidden="true"></i><br>
+01535 622362 <br>
+<i class="fa fa-envelope" aria-hidden="true"></i><br>
+info@holgateengineering.com 
+</p>
+</div>
+
+
+<div class="col-sm-4">
+<h5 class="uppercase">Social</h5>
+<ul class="list-inline social-links">
+<li class="list-inline-item">
+<a target="_blank" href="#">
+<i class="fa fa-facebook" aria-hidden="true"></i>
+<span class="sr-only">Facebook</span>
+</a></li>
+
+<li class="list-inline-item">
+<a target="_blank" href="#">
+<i class="fa fa-twitter" aria-hidden="true"></i>
+<span class="sr-only">Twitter</span>
+</a></li>
+</ul>
+</div>
+</div>
+</footer>
     
 </body>
 </html>
