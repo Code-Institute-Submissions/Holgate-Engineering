@@ -19,6 +19,7 @@ header{
     padding-top:5px;
     color:rgba(9, 23, 226);
     display:block;
+    text-align: center;
 }
 
 .cogs i{
@@ -40,6 +41,7 @@ header{
 
 .menuitem a{
     color:#080808;
+    text-align: center;
 
 }
 .menuitem span{
@@ -59,7 +61,19 @@ header{
     font-weight:700;
 }
 /*--------------------Main Image----------------*/
+#logo-container{
+    margin-left:0px;
+    margin-right:0px;
+    width:100%;
+}
+
+.col{
+    padding:0px;
+}
+
 .logo{
+    padding:0px;
+}
     
     
 
@@ -73,6 +87,8 @@ header{
     background-size:cover;
     min-height: 360px;
     z-index:1;
+    width:100%;
+    padding:0px;
 }
 
 
