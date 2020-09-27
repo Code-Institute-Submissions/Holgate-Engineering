@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,600;1,300;1,400&display=swap');
 
 body{
+    overflow-x:hidden;
     margin:0px;
     
 }
@@ -12,12 +13,9 @@ body{
     padding:0px;
 }
 /*--------------------Header----------------*/
-header{
-    margin-right:-15px;
-}
-.header{
-    margin-right:-15px;
-}
+
+
+
 
 
 .navbar{
@@ -58,6 +56,10 @@ header{
 
     
 }
+
+.cogs-left{
+    padding-left:23px;
+}
 .list-inline-item:not(:last-child) {
     margin-right:0;
 }
@@ -92,7 +94,7 @@ header{
     text-align:center;
     text-transform:uppercase;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 600;
     letter-spacing: 2px;
     font-family:'Raleway', sans-serif;
 
@@ -105,14 +107,13 @@ header{
 }
 
 #nav{
+    width:100%;
     padding-left:8px;
     padding-right:5px;
 }
 /*--------------------Main Image----------------*/
 
-.main-image{
-    margin-right:-10px;
-}
+
 
 #logo-container{
 
@@ -135,7 +136,7 @@ header{
   -o-background-size: cover;
   background-size: cover;
   height:400px;
-  margin-right:-10px;
+  ;
   animation-name: main-zoom;
   animation-duration:3s;
   
@@ -300,12 +301,13 @@ color:#fafafa;
 
 .services{
         padding-top:15px;
+        width:100%;
     }
 
 /*--------------------Services----------------*/
 section{
     padding-top:5px;
-    padding-bottom:10px;
+    padding-bottom:15px;
    
 
 }
@@ -319,6 +321,8 @@ section{
     text-shadow: 10px 10px 16px grey;
     margin-top:0;
     font-size:40px;
+    padding-left:15px;
+    margin-left:15px;
 
 }
 
@@ -329,9 +333,9 @@ section{
 
     text-align:center;
     padding:0px;
-    box-shadow: 10px 10px 5px rgb(241, 121, 9,0.7);
+    box-shadow: 10px 10px  rgb(241, 121, 9,0.7);
     margin-bottom:20px;
-    margin-left:25px;
+    margin-left:30px;
     margin-right:25px;
     margin-top:20px;
     background-color:#777a7d;
@@ -368,6 +372,24 @@ section{
     font-family:'Raleway', sans-serif;
     
 }
+
+.prices-button{text-transform:uppercase;
+    background-color:rgb(241, 121, 9);
+    color:#585655;
+    font-weight:700;
+    border:rgb(241, 121, 9);
+    margin-top:5px;
+    margin-bottom:5px;}
+
+    .prices-button:hover{
+    background-color:#585655;
+    color:rgb(241, 121, 9);}
+
+    .modal-header h5{
+        width:100%;
+        margin:auto;
+        text-transform:uppercase;
+    }
     
     /*--------------------Form----------------*/
 
@@ -438,7 +460,7 @@ footer{
 }
 
 .footer{
-    margin-right:-20px;
+    
     background-color: #777a7dec;
     width:100%;
 }
@@ -446,6 +468,7 @@ footer{
 #footer-details{
     padding-top:20px;
     background-color: #777a7d;
+    width:100%;
 }
 
 
