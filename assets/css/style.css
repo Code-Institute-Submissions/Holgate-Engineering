@@ -24,6 +24,9 @@ body{
     margin-bottom:20px;
     background-color:#777a7dec;
     width:100%;
+    border-bottom:3px solid rgb(241, 121, 9);
+   
+   
 }
 
 .main-heading{
@@ -125,12 +128,13 @@ body{
     margin-top:-25px;  
     margin-right:-20px;
     
+    
 }
 
 
    #logo {
     
-    background:url("/assets/images/IMG_4598.JPG") no-repeat center center; 
+    background:url("https://s0.geograph.org.uk/geophotos/01/01/61/1016199_5e362fee.jpg") no-repeat center center; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -139,7 +143,8 @@ body{
   
   animation-name: main-zoom;
   animation-duration:3s;
-  
+  border:3px solid rgb(241, 121, 9);
+   
 }
 
 @keyframes main-zoom{
@@ -226,7 +231,7 @@ body{
 }
 
 .testimonials h4{
-    font-family:'Roboto', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-size:20px;
     padding-top:10px;
     text-transform:uppercase;
@@ -421,7 +426,7 @@ section{
 .center-form{
     padding-top:10px;
     margin:0 auto;
-    max-width:70%;
+    max-width:100%;
     padding-bottom:25px;
 
 }
@@ -430,8 +435,8 @@ section{
     .center-form{
     padding-top:30px;
     min-height:240px;
-    margin:0 auto;
-    max-width:50%;
+    margin:0px;
+    max-width:100%;
 
 }
 }
@@ -458,6 +463,45 @@ section{
 
 }
 
+.contact-info{
+    margin:0px;
+}
+
+.contact-bubble i{
+    position:absolute;
+    z-index:1;
+    font-size:75px;
+    margin-right:10px;
+    text-align:center;
+    color:rgb(241, 121, 9,0.55)
+}
+.contact-bubble{
+    font-weight:500;
+    z-index:2;
+    word-break:break-all;
+    padding-top:5px;
+    margin-left:20px;
+    margin-right:20px;
+    font-size:18px;
+    color:#585655;
+    font-family:'Raleway', sans-serif;
+    padding-top:10px;
+transform:translateY(65%);
+    text-align:center;
+   
+    width:90%;
+    height:150px;
+   
+    }
+
+.email-info{
+    font-size:15px;
+}
+@media(max-width:990px){
+    .contact-bubble{
+        display:none;
+    }
+}
 
 
 
@@ -471,6 +515,7 @@ footer{
     
     width:100%;
     text-align:center;
+    border-top:3px solid rgb(241, 121, 9);
 
 }
 
@@ -485,6 +530,7 @@ footer h5{
     padding-top:20px;
     background-color: #777a7dec;
     width:100%;
+    margin:0px;
 }
 
 
