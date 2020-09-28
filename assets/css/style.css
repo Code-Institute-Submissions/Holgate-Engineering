@@ -124,7 +124,7 @@ body{
     overflow:hidden;
     margin-top:-25px;  
     margin-right:-20px;
-
+    
 }
 
 
@@ -136,7 +136,7 @@ body{
   -o-background-size: cover;
   background-size: cover;
   height:400px;
-  ;
+  
   animation-name: main-zoom;
   animation-duration:3s;
   
@@ -198,6 +198,9 @@ body{
 
 /*--------------------Section----------------*/
 
+.main-section{
+    margin:0px;
+}
 
 .testimonials-div{text-align: center;
     padding:10px;
@@ -253,7 +256,7 @@ color:#fafafa;
 .about-us-text{
     margin:10px;
     margin-top:10px;
-    padding:22px;
+    padding:25px;
 }
 
 
@@ -389,7 +392,19 @@ section{
         width:100%;
         margin:auto;
         text-transform:uppercase;
+        color:#585655;
     }
+
+    .modal-header{
+        border-bottom:solid 2px rgb(241, 121, 9);
+    }
+
+    .modal-footer{
+        border-top:solid 2px rgb(241, 121, 9);
+    }
+
+    .close-btn:hover{background-color:rgb(241, 121, 9);
+    color:#585655;}
     
     /*--------------------Form----------------*/
 
@@ -459,15 +474,16 @@ footer{
 
 }
 
-.footer{
-    
-    background-color: #777a7dec;
-    width:100%;
+footer h5{
+ color:#fafafa;
+ text-decoration: underline dotted; 
 }
+
+
 
 #footer-details{
     padding-top:20px;
-    background-color: #777a7d;
+    background-color: #777a7dec;
     width:100%;
 }
 
