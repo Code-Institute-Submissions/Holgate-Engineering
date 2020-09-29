@@ -467,13 +467,35 @@ section{
     margin:0px;
 }
 
-.contact-bubble i{
+#faded-icon{
     position:absolute;
     z-index:1;
-    font-size:75px;
-    margin-right:10px;
-    text-align:center;
-    color:rgb(241, 121, 9,0.55)
+    font-size:150px;
+    padding-left:0px;
+    color:rgb(241, 121, 9,0.40);
+}
+
+#faded-icon i{
+    margin-left:-10px;
+    vertical-align:top;
+    margin-top:-23px;
+}
+
+#faded-icon-phone i{
+    vertical-align:top;
+    margin-top:-15px;
+}
+
+#faded-icon-phone{position:absolute;
+    z-index:1;
+    font-size:150px;
+    margin-right:25px;
+    padding-left:0px;
+    padding-right:20px;
+    margin-bottom:20px;
+    color:rgb(241, 121, 9,0.40);
+
+
 }
 .contact-bubble{
     font-weight:500;
@@ -483,19 +505,24 @@ section{
     margin-left:20px;
     margin-right:20px;
     font-size:18px;
-    color:#585655;
+    color:#343a40;
     font-family:'Raleway', sans-serif;
     padding-top:10px;
-transform:translateY(65%);
+    transform:translateY(15%);
+
     text-align:center;
    
     width:90%;
-    height:150px;
+    
    
     }
-
+.contact-bubble h5{
+    text-transform:uppercase;
+    font-weight:700;
+}
 .email-info{
-    font-size:15px;
+    font-size:16px;
+    font-weight:600;
 }
 @media(max-width:990px){
     .contact-bubble{
