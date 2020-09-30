@@ -5,7 +5,6 @@
 I have used this project to create a website for our family business. My grandfather, father & uncle have all worked in the family engineering business for over 50 years however they have never had a webpage dedicated to the work they do. This website will advertise their services and offer examples of their work to potential clients. 
 
 
-Essentially, this part is your sales pitch.
 
 <h4>UX</h4>
 The aim of this project is to primarily raise awareness that the business exists and is in operation. Having had no online presence previously, this webiste's main purpose is to reach the customers that are requiring these services. The secondary purpose will be to generate more enquiries and ultimately business for the company. 
@@ -26,8 +25,11 @@ In essence, the website will be a window into workshop and needs to be used to g
 <h4>Achieving this goal</h4>
 This project has been tailored towards the target audience, with the aims in mind. Testimonials have been used to instil confidence in the user. Placed on the homepage, these will be one of the first things that are absorbed by the user. By using a personal & a business customer testimonial, it will be relatable to both of the target audiences.
 The services page, although laid out in a simple design, provides all of the neccessary information a potential client would need to make an informed decision. Also, the grid structure provides easy access to the information. 
+Based on the existing customer demographic and the fact that Holgate Engineering provides a service that is not very often seen any more, the website needs to be easy to navigate. Many visitors to the website may not be particularly tech savy so the layout is easy to read and the menu headings are always shown. This will avoid any confusion for users as to how to navigate to the information they require. The design, however, also needs to appeal to the business customers. The strong lines and square shapes will appeal to these customers as it is in keeping with the products and services being advertised. Engineering is seen as a strong and precise profession therefore the website design mirrors this. 
 
+A business customer's main aim when visiting the site will be to check that Holgate Enginering offers the service required and then to get in touch for a quote. The layout means this is simple for them to do. A visit to the 'Services' page will allow them to pinpoint the service required and then they can easily call Holgate Engineering from the number supplied in the footer or by visiting the 'Contact Page' and submitting a quote request. 
 
+A personal customer's aim would also be to check the service they are requiring is on offer however their decision making may be influenced by a trust in the company. If they are requiring a repair on their car, for example, the quality of the repair will be paramount to their safety. Therefore they may also be interested in other people's opinions before buying. They are also more likely to visit the premises than a business customer so they will need to be made aware of the location and the COVID-19 safety measures in place. For this reason, the location and COVID-19 risk assessment are placed next to each other to allow customers to browse these before calling. 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
@@ -39,6 +41,7 @@ Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 Existing Features
+
 Feature 1 - allows users X to achieve Y, by having them fill out Z
 ...
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
@@ -49,7 +52,14 @@ In addition, you may also use this section to discuss plans for additional featu
 Another feature idea
 
 
-Technologies Used
+<h4>Technologies Used</h4>
+HTML <br>
+CSS <br>
+Bootstrap - https://getbootstrap.com/ - Used to provide structure to the project and to provide certain styles that I would otherwise have been unable without JavaScript <br>
+Font Awesome - https://fontawesome.com/ - Used to provide metaphors without using words and to add styling to the page. Used as links to exterior sources.<br>
+Google Fonts - https://fonts.google.com/ - Used to provide a uniform styling of fonts but that differ from the norm and provide a unique look.<br>
+Hover.css - https://ianlunn.github.io/Hover/#effects - Used to create effects on the navigation icons that differ from the norm to fit in with the styling on the website.<br>
+
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 JQuery
@@ -83,9 +93,12 @@ Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
+<h4>Content </h4>
+The text from the testimonials was provided by Pam Gregory (Local resident and customer) & George Barkers LTD (Business Customer).
+The information provided in the 'About Us' and 'Services' sections was provided by Brian McAvoy (Co-owner of Holgate Engineering).
+
+<h4>Media</h4>
+The photo used on this site was taken from https://www.geograph.org.uk/photo/1016199.
+
 Acknowledgements
 I received inspiration for this project from X

@@ -259,9 +259,9 @@ color:#fafafa;
 }
 
 .about-us-text{
-    margin:10px;
-    margin-top:10px;
-    padding:25px;
+    margin:15px;
+    
+    padding:35px;
 }
 
 
@@ -562,10 +562,16 @@ footer h5{
 
 
 
-.social-links i{
+.covid a{
     color:#ef7108bf;
     font-size:20px;
     padding:10px;
+}
+
+#covid-risk{color:#ef7108bf;
+    font-size:20px;
+    padding:10px;
+
 }
 
 .contact-us{
