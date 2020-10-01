@@ -8,6 +8,7 @@ I have used this project to create a website for our family business. My grandfa
 
 <h4>UX</h4>
 The aim of this project is to primarily raise awareness that the business exists and is in operation. Having had no online presence previously, this webiste's main purpose is to reach the customers that are requiring these services. The secondary purpose will be to generate more enquiries and ultimately business for the company. 
+Please see the wireframe for this project <a href="/assets/documentation/Wireframe.pdf" target="_blank">here</a>
 
 <h4>Target Audience</h4>
 The target audience for this website can be split into two categories. Firstly it is aimed at potential local customers. These are both business and personal customers who could benefit from the services offered by Holgate Engineering. The second target would be national companies that are looking for a smaller engineering company to perform bespoke or production work to a high standard. 
@@ -22,6 +23,12 @@ This website will be used to provide the knowledge to local customers on what th
 It will also aim to supply customers with confidence in the company. This is especially important for a business that has previously had no online presence. 
 In essence, the website will be a window into workshop and needs to be used to gain customer's confidence and lead to an enquiry or job.
 
+<h5>Goals for the user</h5>
+-As a personal customer I would like to explore the services offered, check the reputation of the business and their safety procedures and then contact the company.
+-As a business customer I would like to ensure the service I require is available and get a quick and easy quote.
+-As a user of the website I would like to be able to use the website on any type of device and be able to navigate through the website easily on any device.
+-As a user I want to be able to locate contact details easily from any page on the website.
+
 <h4>Achieving this goal</h4>
 This project has been tailored towards the target audience, with the aims in mind. Testimonials have been used to instil confidence in the user. Placed on the homepage, these will be one of the first things that are absorbed by the user. By using a personal & a business customer testimonial, it will be relatable to both of the target audiences.
 The services page, although laid out in a simple design, provides all of the neccessary information a potential client would need to make an informed decision. Also, the grid structure provides easy access to the information. 
@@ -34,37 +41,34 @@ Use this section to provide insight into your UX process, focusing on who this w
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+<h4>Features</h4>
 
-Existing Features
 
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+<h4>Existing Features</h4>
+<ul>
+<li>Feature 1 - Navbar - Allows users to navigate through the website by clear headings on the navbar. Clicking on each will direct them to the page they require.</li>
+<li>Feature 2 - Main Image - Allows customers to see an example of Holgate Engineering's work and also provides movement on the page. This draws the customers attention to the image and also the companies moto which is layered over the image.</li>
+<li>Feature 3 - Footer - Allows users to quickly locate important information such as contact details and risk assessments no matter which page they are viewing.</li>
+<li>Feature 4 - Services Modals - Allows customers to gain an idea of prices for each service on offer without having to contact the company. By clicking on the 'Prices' button, a modal in shown on the same page to avoid customers have to navigate back to the section they were currently viewing.</li>
+<li>Feature 5 - Contact Form - Allows customers to send a quick message to Holgate Engineering without having to open their own emails. It will also not allow customers to miss any important information by using 'required' fields.</li>
+</ul>
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-<h5>Features Left to Implement</h5>
-Another feature idea
+<h4>Features Left to Implement</h4>
+<ul>
+<li>A gallery of products that have already been manufactured or repaired by Holgate Engineering. This is not currently possible due to the current COVID-19 situation to visit previous customers and gain their permission to photograph and display their products.</li>
+<li>An interactive tour of the workshop to show customers the machinery on offer.</li>
 
 
 <h4>Technologies Used</h4>
-HTML <br>
-CSS <br>
-Bootstrap - https://getbootstrap.com/ - Used to provide structure to the project and to provide certain styles that I would otherwise have been unable without JavaScript <br>
-Font Awesome - https://fontawesome.com/ - Used to provide metaphors without using words and to add styling to the page. Used as links to exterior sources.<br>
-Google Fonts - https://fonts.google.com/ - Used to provide a uniform styling of fonts but that differ from the norm and provide a unique look.<br>
-Hover.css - https://ianlunn.github.io/Hover/#effects - Used to create effects on the navigation icons that differ from the norm to fit in with the styling on the website.<br>
+<li>HTML</li>
+<li>CSS </li>
+<li>Bootstrap - https://getbootstrap.com/ - Used to provide structure to the project and to provide certain styles that I would otherwise have been unable without JavaScript </li>
+<li>Font Awesome - https://fontawesome.com/ - Used to provide metaphors without using words and to add styling to the page. Used as links to exterior sources.</li>
+<li>Google Fonts - https://fonts.google.com/ - Used to provide a uniform styling of fonts but that differ from the norm and provide a unique look.</li>
+<li>Code Institute Tutorials - https://courses.codeinstitute.net/ - Recaps to previous tutorials.</li>
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
+<h4>Testing</h4>
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
@@ -82,7 +86,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-Deployment
+<h4>Deployment</h4>
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -92,7 +96,7 @@ Different configuration files?
 Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-Credits
+<h4>Credits</h4>
 <h4>Content </h4>
 The text from the testimonials was provided by Pam Gregory (Local resident and customer) & George Barkers LTD (Business Customer).
 The information provided in the 'About Us' and 'Services' sections was provided by Brian McAvoy (Co-owner of Holgate Engineering).
