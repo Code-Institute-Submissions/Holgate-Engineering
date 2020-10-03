@@ -444,7 +444,8 @@ footer{
     padding-top:7px;
     width:100%;
     text-align:center;
-    border-top:3px solid rgb(241, 121, 9);}
+    border-top:3px solid rgb(241, 121, 9);
+    font-family:'Raleway', sans-serif;}
 
 footer h5{
  color:#fafafa;
