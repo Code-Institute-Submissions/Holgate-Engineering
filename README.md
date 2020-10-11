@@ -14,6 +14,10 @@ I have used this project to create a website for our family business. My grandfa
 <li><a href="#website-aim">Website Aim</a></li>
 <li><a href="#user-stories">User Stories</a></li>
 <li><a href="#design">Design</a></li>
+<ul>
+<li><a href="color-scheme">Color Scheme</a></li>
+<li><a href="typography">Typography</a></li>
+</ul>
 </ul>
 <li><a href="#features">Features</a></li>
 <ul>
@@ -23,7 +27,7 @@ I have used this project to create a website for our family business. My grandfa
 <li><a href="#technologies">Technologies Used</a></li>
 <li><a href="#testing">Testing</a></li>
 
-<h4 id="uk">UX</h4>
+<h3 id="uk">UX</h3>
 The aim of this project is to primarily raise awareness that the business exists and is in operation. Having had no online presence previously, this webiste's main purpose is to reach the customers that are requiring these services. The secondary purpose will be to generate more enquiries and ultimately business for the company. 
 Please see the wireframe for this project <a href="/assets/documentation/Wireframe.pdf" target="_blank">here</a>
 
@@ -40,11 +44,14 @@ This website will be used to provide the knowledge to local customers on what th
 It will also aim to supply customers with confidence in the company. This is especially important for a business that has previously had no online presence. 
 In essence, the website will be a window into workshop and needs to be used to gain customer's confidence and lead to an enquiry or job.
 
-<h5 id="user-stories">User Stories</h5>
--As a personal customer I would like to explore the services offered, check the reputation of the business and their safety procedures and then contact the company.
--As a business customer I would like to ensure the service I require is available and get a quick and easy quote.
--As a user of the website I would like to be able to use the website on any type of device and be able to navigate through the website easily on any device.
--As a user I want to be able to locate contact details easily from any page on the website.
+<h4 id="user-stories">User Stories</h4>
+<ul>
+<li>As a personal customer I would like to explore the services offered, to do this I can easily click on the "Services" page and scroll through the options available.</li>
+<li>As a personal customer I would like to check the reputation of the business and their safety procedures. I can easily access the Covid safety procedures via the link in the footer and can see the testimonials from other customers as soon as I access the webpage.</li>
+<li>As a business customer I would like to ensure the service I require is available and get a quick and easy quote. I can do this simply by accessing the "Services" page and once I have found the service required, I can use the Contact Form to send a request.</li>
+<li>As a user of the website I would like to be able to use the website on any type of device and be able to navigate through the website easily on any device. I have tried the website on a tablet, mobile and a desktop and the layout remains the same so I can easily access the pages required.</li>
+<li>As a user I want to be able to locate contact details easily from any page on the website. I am able to find the contact number and email address easily via the website footer which is available on every page.</li>
+</ul>
 
 <h4 id="design">Design</h4>
 This project has been tailored towards the target audience, with the aims in mind. Testimonials have been used to instil confidence in the user. Placed on the homepage, these will be one of the first things that are absorbed by the user. By using a personal & a business customer testimonial, it will be relatable to both of the target audiences.
@@ -55,10 +62,10 @@ A business customer's main aim when visiting the site will be to check that Holg
 
 A personal customer's aim would also be to check the service they are requiring is on offer however their decision making may be influenced by a trust in the company. If they are requiring a repair on their car, for example, the quality of the repair will be paramount to their safety. Therefore they may also be interested in other people's opinions before buying. They are also more likely to visit the premises than a business customer so they will need to be made aware of the location and the COVID-19 safety measures in place. For this reason, the location and COVID-19 risk assessment are placed next to each other to allow customers to browse these before calling. 
 
-<h5>Colour Scheme</h5>
+<h5 id="color-scheme">Colour Scheme</h5>
 
 
-<h5>Typography</h5>
+<h5 id="typography">Typography</h5>
 3 Google Fonts were used in this project:
 <ol>
 <li>Alfa Slab One - h1, h2</li>
@@ -98,10 +105,9 @@ In particular, as part of this section we recommend that you provide a list of U
 <li>JQuery</li>
 <li>Git</li>
 <li>GitHub</li>
-<li>Bootstrap - https://getbootstrap.com/ - Used to provide structure to the project and to provide certain styles that I would otherwise have been unable without JavaScript </li>
-<li>Font Awesome - https://fontawesome.com/ - Used to provide metaphors without using words and to add styling to the page. Used as links to exterior sources.</li>
-<li>Google Fonts - https://fonts.google.com/ - Used to provide a uniform styling of fonts but that differ from the norm and provide a unique look.</li>
-<li>Code Institute Tutorials - https://courses.codeinstitute.net/ - Recaps to previous tutorials.</li>
+<li><a href="https://getbootstrap.com/">Bootstrap</a> - Used to provide structure to the project and to provide certain styles that I would otherwise have been unable without JavaScript </li>
+<li><a href="https://fontawesome.com/">Font Awesome</a>  - Used to provide metaphors without using words and to add styling to the page. Used as links to exterior sources.</li>
+<li><a href="https://fonts.google.com/">Google Fonts</a> - Used to provide a uniform styling of fonts but that differ from the norm and provide a unique look.</li>
 </ul>
 
 <h4 id="testing">Testing</h4>
@@ -112,19 +118,42 @@ In particular, as part of this section we recommend that you provide a list of U
 <li>W3C CSS Validator</li></ul>
 
 <h5>Manual Testing</h5>
+I manually tested the following to make sure they worked as designed:
 
+<h5>Navbar</h5>
+<ul>
+<li>Viewing the Navbar from each of the three pages, it looks identical.</li>
+<li>There are three options: Home, Services, Contact.</li>
+<li>Clicking on the Home link will takes you to the index.html page.</li>
+<li>Clicking on the Services link takes you to the services.html page.</li>
+<li>Clicking on the Contact link takes you to the contact.html page.</li>
+</ul>
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+<h5>COVID-19 Risk Assessment</h5>
+<ul>
+<li>Scroll to the footer and the link is labelled.</li>
+<li>Upon clicking on the link, the COVID-19 risk assessment will open as a PDF in a separate browser window.</li>
+</ul>
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+<h5>Contact Form</h5>
+<ul>
+<li>Click on the "Contact" link.</li>
+<li>Submitting the form without a name is not permitted. A warning appears "Please fill in this field".</li>
+<li>After entering a name and trying to submit, a warning "Please fill in this field" appears below the phone number box.</li>
+<li>After entering a phone number and trying to submit, a warning "Please fill in this field" appears below the emaill address box.</li>
+<li>After entering an emaill address and trying to submit, a warning "Please fill in this field" appears below the requirements box.</li>
+<li>Therefore the form cannot be submitted without all of te required items.</li>
+</ul>
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+<h5>Services Modals</h5>
+<ul>
+<li>Click on the "Services" link.</li>
+<li>Click on the "Prices" button below each service item.</li>
+<li>A modal will appear centrally on the screen.</li>
+<li>Clicking on the "Close" button will remove the modal.</li>
+<li>Clicking on the "X" will also remove the modal.</li>
+</ul>
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
