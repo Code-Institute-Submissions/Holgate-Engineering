@@ -2,7 +2,8 @@
 
   
 <h1>Holgate Engineering</h1>
-
+<h4><a href="https://github.com/elliemcavoy/Holgate-Engineering" target="_blank">GitHub Link</a></h4>
+<h4><a href="https://elliemcavoy.github.io/Holgate-Engineering/" target="_blank">Deployed Project</a></h4>
 <img src="/assets/images/website.PNG">
 I have used this project to create a website for our family business. My grandfather, father & uncle have all worked in the family engineering business for over 50 years however they have never had a webpage dedicated to the work they do. This website will advertise their services and offer examples of their work to potential clients. 
 
@@ -10,12 +11,12 @@ I have used this project to create a website for our family business. My grandfa
 <ol>
 <li><a href="#ux">UX</a></li>
 <ul>
+<li><a href="#wireframes">Wireframes</a></li>
 <li><a href="#target-audience">Target Audience</a></li>
 <li><a href="#website-aim">Website Aim</a></li>
 <li><a href="#user-stories">User Stories</a></li>
 <li><a href="#design">Design</a></li>
 <ul>
-<li><a href="color-scheme">Color Scheme</a></li>
 <li><a href="typography">Typography</a></li>
 </ul>
 </ul>
@@ -29,7 +30,11 @@ I have used this project to create a website for our family business. My grandfa
 
 <h3 id="uk">UX</h3>
 The aim of this project is to primarily raise awareness that the business exists and is in operation. Having had no online presence previously, this webiste's main purpose is to reach the customers that are requiring these services. The secondary purpose will be to generate more enquiries and ultimately business for the company. 
-Please see the wireframe for this project <a href="/assets/documentation/Wireframe.pdf" target="_blank">here</a>
+
+<h4 id="wireframes">Wireframes</h4>
+Please see the wireframe for this project:<br>
+<a href="/assets/documentation/Wireframe.pdf" target="_blank">Desktop</a><br>
+<a href="/assets/documentation/Wireframe-mobile.pdf" target="_blank">Mobile</a>
 
 <h4 id="target-audience">Target Audience</h4>
 The target audience for this website can be split into two categories. Firstly it is aimed at potential local customers. These are both business and personal customers who could benefit from the services offered by Holgate Engineering. The second target would be national companies that are looking for a smaller engineering company to perform bespoke or production work to a high standard. 
@@ -62,7 +67,6 @@ A business customer's main aim when visiting the site will be to check that Holg
 
 A personal customer's aim would also be to check the service they are requiring is on offer however their decision making may be influenced by a trust in the company. If they are requiring a repair on their car, for example, the quality of the repair will be paramount to their safety. Therefore they may also be interested in other people's opinions before buying. They are also more likely to visit the premises than a business customer so they will need to be made aware of the location and the COVID-19 safety measures in place. For this reason, the location and COVID-19 risk assessment are placed next to each other to allow customers to browse these before calling. 
 
-<h5 id="color-scheme">Colour Scheme</h5>
 
 
 <h5 id="typography">Typography</h5>
