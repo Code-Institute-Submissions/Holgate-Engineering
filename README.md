@@ -5,7 +5,7 @@
 <h4><a href="https://github.com/elliemcavoy/Holgate-Engineering" target="_blank">GitHub Link</a></h4>
 <h4><a href="https://elliemcavoy.github.io/Holgate-Engineering/" target="_blank">Deployed Project</a></h4>
 <img src="/assets/images/website.PNG">
-I have used this project to create a website for our family business. My grandfather, father & uncle have all worked in the family engineering business for over 50 years however they have never had a webpage dedicated to the work they do. This website will advertise their services and offer examples of their work to potential clients. 
+<p>I have used this project to create a website for our family business. My grandfather, father & uncle have all worked in the family engineering business for over 50 years however they have never had a webpage dedicated to the work they do. This website will advertise their services and offer examples of their work to potential clients.</p> 
 
 <h4>Table of Contents</h4>
 <ol>
@@ -32,7 +32,7 @@ I have used this project to create a website for our family business. My grandfa
 The aim of this project is to primarily raise awareness that the business exists and is in operation. Having had no online presence previously, this webiste's main purpose is to reach the customers that are requiring these services. The secondary purpose will be to generate more enquiries and ultimately business for the company. 
 
 <h4 id="wireframes">Wireframes</h4>
-Please see the wireframe for this project:<br>
+Please see the wireframes for this project:<br>
 <a href="/assets/documentation/Wireframe.pdf" target="_blank">Desktop</a><br>
 <a href="/assets/documentation/Wireframe-mobile.pdf" target="_blank">Mobile</a>
 
@@ -182,5 +182,3 @@ The information provided in the 'About Us' and 'Services' sections was provided 
 <h4>Media</h4>
 The photo used on this site was taken from https://www.geograph.org.uk/photo/1016199.
 
-Acknowledgements
-I received inspiration for this project from X
