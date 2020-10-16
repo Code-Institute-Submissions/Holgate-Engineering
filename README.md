@@ -1,13 +1,10 @@
-
-
-  
 <h1>Holgate Engineering</h1>
 <h4><a href="https://github.com/elliemcavoy/Holgate-Engineering" target="_blank">GitHub Link</a></h4>
 <h4><a href="https://elliemcavoy.github.io/Holgate-Engineering/" target="_blank">Deployed Project</a></h4>
 <img src="/assets/images/website.PNG">
-I have used this project to create a website for our family business. My grandfather, father & uncle have all worked in the family engineering business for over 50 years however they have never had a webpage dedicated to the work they do. This website will advertise their services and offer examples of their work to potential clients. 
+<p>I have used this project to create a website for our family business. My grandfather, father & uncle have all worked in the family engineering business for over 50 years however they have never had a webpage dedicated to the work they do. This website will advertise their services and offer examples of their work to potential clients.</p> 
 
-<h4>Table of Contents</h4>
+<h2>Table of Contents</h2>
 <ol>
 <li><a href="#ux">UX</a></li>
 <ul>
@@ -27,27 +24,28 @@ I have used this project to create a website for our family business. My grandfa
 </ul>
 <li><a href="#technologies">Technologies Used</a></li>
 <li><a href="#testing">Testing</a></li>
+<li><a href="#deployment">Deployment</a></li>
+<li><a href="#credits">Credits</a></li>
+</ol>
 
-<h3 id="uk">UX</h3>
+<h2 id="ux"><u>UX</u></h2>
 The aim of this project is to primarily raise awareness that the business exists and is in operation. Having had no online presence previously, this webiste's main purpose is to reach the customers that are requiring these services. The secondary purpose will be to generate more enquiries and ultimately business for the company. 
 
 <h4 id="wireframes">Wireframes</h4>
-Please see the wireframe for this project:<br>
+Please see the wireframes for this project:<br>
 <a href="/assets/documentation/Wireframe.pdf" target="_blank">Desktop</a><br>
 <a href="/assets/documentation/Wireframe-mobile.pdf" target="_blank">Mobile</a>
 
 <h4 id="target-audience">Target Audience</h4>
-The target audience for this website can be split into two categories. Firstly it is aimed at potential local customers. These are both business and personal customers who could benefit from the services offered by Holgate Engineering. The second target would be national companies that are looking for a smaller engineering company to perform bespoke or production work to a high standard. 
-
- It will also provide a detailed explanation of the types of work that can be carried out. For example, Holgate Engineering regularly repairs the local bakeries mechanical equipment insitu. Similar businesses may be looking for an equivilant service but are unaware of Holgate Engineering's wide range of services on offer.
-<br>Targeting larger companies nationwide will be a secondary objective for the website. Holgate Engineering already has a number of national companies that they provide production parts for. However these were acquired by word of mouth and so the website will be used to showcase to similar customers that they are already successfully completing high volume production work.
-
+The target audience for this website can be split into two categories.<br>Firstly it is aimed at potential local customers. These are both business and personal customers who could benefit from the services offered by Holgate Engineering.<br>The second target would be national companies that are looking for a smaller engineering company to perform bespoke or production work to a high standard.<br>
+It will also provide a detailed explanation of the types of work that can be carried out. For example, Holgate Engineering regularly repairs the local bakeries mechanical equipment insitu. Similar businesses may be looking for an equivilant service but are unaware of Holgate Engineering's wide range of services on offer.<br>
+Targeting larger companies nationwide will be a secondary objective for the website. Holgate Engineering already has a number of national companies that they provide production parts for. However these were acquired by word of mouth and so the website will be used to showcase to similar customers that they are already successfully completing high volume production work.<br>
 For both categories of audience, the demographic to be targeted will be predominently customers over the age of 25. The reason for this being, a very large proportion of Holgate Engineering's current clients fall into this demographic. Also the style of machinery used in this workshop is more suited to more "Old Fashioned Engineering". This is not to discourage the younger generation but Holgate Engineering needs to website to be suitable for their key customers. 
 
 <h4 id="website-aim">Website Aim</h4>
-This website will be used to provide the knowledge to local customers on what the business can offer them and why Holgate Engineering should be chosen. For example, the business owners would like to show that they can offer the same services as an original manufacturer. For example, a car part needing refurbishment can be completed quicker and cheaper by Holgate Engineering than if the part was to be sent back to the original manufacturer.
-It will also aim to supply customers with confidence in the company. This is especially important for a business that has previously had no online presence. 
-In essence, the website will be a window into workshop and needs to be used to gain customer's confidence and lead to an enquiry or job.
+This website will be used to provide the knowledge to local customers on what the business can offer them and why Holgate Engineering should be chosen.<br>For example, the business owners would like to show that they can offer the same services as an original manufacturer e.g. a car part needing refurbishment can be completed quicker and cheaper by Holgate Engineering than if the part was to be sent back to the original manufacturer.
+<br>It will also aim to supply customers with confidence in the company. This is especially important for a business that has previously had no online presence. 
+<br>In essence, the website will be a window into workshop and needs to be used to gain customer's confidence and lead to an enquiry or job.
 
 <h4 id="user-stories">User Stories</h4>
 <ul>
@@ -59,15 +57,11 @@ In essence, the website will be a window into workshop and needs to be used to g
 </ul>
 
 <h4 id="design">Design</h4>
-This project has been tailored towards the target audience, with the aims in mind. Testimonials have been used to instil confidence in the user. Placed on the homepage, these will be one of the first things that are absorbed by the user. By using a personal & a business customer testimonial, it will be relatable to both of the target audiences.
-The services page, although laid out in a simple design, provides all of the neccessary information a potential client would need to make an informed decision. Also, the grid structure provides easy access to the information. 
-Based on the existing customer demographic and the fact that Holgate Engineering provides a service that is not very often seen any more, the website needs to be easy to navigate. Many visitors to the website may not be particularly tech savy so the layout is easy to read and the menu headings are always shown. This will avoid any confusion for users as to how to navigate to the information they require. The design, however, also needs to appeal to the business customers. The strong lines and square shapes will appeal to these customers as it is in keeping with the products and services being advertised. Engineering is seen as a strong and precise profession therefore the website design mirrors this. 
-
-A business customer's main aim when visiting the site will be to check that Holgate Enginering offers the service required and then to get in touch for a quote. The layout means this is simple for them to do. A visit to the 'Services' page will allow them to pinpoint the service required and then they can easily call Holgate Engineering from the number supplied in the footer or by visiting the 'Contact Page' and submitting a quote request. 
-
-A personal customer's aim would also be to check the service they are requiring is on offer however their decision making may be influenced by a trust in the company. If they are requiring a repair on their car, for example, the quality of the repair will be paramount to their safety. Therefore they may also be interested in other people's opinions before buying. They are also more likely to visit the premises than a business customer so they will need to be made aware of the location and the COVID-19 safety measures in place. For this reason, the location and COVID-19 risk assessment are placed next to each other to allow customers to browse these before calling. 
-
-
+This project has been tailored towards the target audience, with the aims in mind.<br>
+Engineering is seen as a strong and precise profession therefore the website design mirrors this.<br>
+Based on the existing customer demographic and the fact that Holgate Engineering provides a service that is not very often seen any more, the website needs to be easy to navigate.<br>
+Many visitors to the website may not be particularly tech savy so the layout is easy to read and the menu headings are always shown.<br>
+The design, however, also needs to appeal to the business customers. The strong lines and square shapes will appeal to these customers as it is in keeping with the products and services being advertised.  
 
 <h5 id="typography">Typography</h5>
 3 Google Fonts were used in this project:
@@ -78,12 +72,7 @@ A personal customer's aim would also be to check the service they are requiring 
 </ol>
 
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-
-<h4 id="features">Features</h4>
+<h2 id="features"><u>Features</u></h2>
 
 
 <h4 id="existing-features">Existing Features</h4>
@@ -99,9 +88,8 @@ In particular, as part of this section we recommend that you provide a list of U
 <ul>
 <li>A gallery of products that have already been manufactured or repaired by Holgate Engineering. This is not currently possible due to the current COVID-19 situation to visit previous customers and gain their permission to photograph and display their products.</li>
 <li>An interactive tour of the workshop to show customers the machinery on offer.</li>
-
-
-<h4 id="technologies">Technologies Used</h4>
+</ul>
+<h2 id="technologies"><u>Technologies Used</u></h2>
 <ul>
 <li>HTML5</li>
 <li>CSS3 </li>
@@ -114,14 +102,14 @@ In particular, as part of this section we recommend that you provide a list of U
 <li><a href="https://fonts.google.com/">Google Fonts</a> - Used to provide a uniform styling of fonts but that differ from the norm and provide a unique look.</li>
 </ul>
 
-<h4 id="testing">Testing</h4>
+<h2 id="testing"><u>Testing</u></h2>
 
-<h5>Validators</h5>
+<h4>Validators</h4>
 <ul>
 <li>W3C HTML Validator</li>
 <li>W3C CSS Validator</li></ul>
 
-<h5>Manual Testing</h5>
+<h4>Manual Testing</h4>
 I manually tested the following to make sure they worked as designed:
 
 <h5>Navbar</h5>
@@ -158,29 +146,59 @@ I manually tested the following to make sure they worked as designed:
 <li>Clicking on the "X" will also remove the modal.</li>
 </ul>
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+<h5>Different Screen Sizes</h5>
+<ul>
+<li>On a mobile device</li>
+<ul>
+<li>The header is condensed but all the page links are still visible. As the header is fixed to the top, the links can be accessed no matter how far down the page your are</li>
+<li>The hero image is visible and the sections are placed under each other and take up the full width of the screen</li>
+<li>The footer allows the contact details to be stacked on top of each other and still easily accessed</li>
+<li>The services boxes are stacked on top of each other and are full width</li>
+<li>The contact form appears in the middle of the page</li>
+</ul>
+<li>On a tablet</li>
+<ul>
+<li>The header is condensed but all the page links are still visible to the right hand side. As the header is fixed to the top, the links can be accessed no matter how far down the page your are</li>
+<li>The hero image is visible and the sections are placed next to each other</li>
+<li>The footer items are still visible next to each other</li>
+<li>The services boxes are in a grid system with two boxes per row</li>
+<li>The contact form is still visible in the center of the page</li>
+</ul>
+<li>On a desktop</li>
+<ul>
+<li>The header items are linear and span the width. Also the icons are visible at each end of the header. As the header is fixed to the top, the links can be accessed no matter how far down the page your are</li>
+<li>The hero image is visible and the sections are placed next to each other</li>
+<li>The footer items are visible next to each other</li>
+<li>The services boxes are in a grid system with two boxes per row but wider than a tablet</li>
+<li>The contact form is visible in the center of the page and the email and phone number are shown at each side</li>
+</ul>
+</ul>
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+<h2 id="deployment"><u>Deployment</u></h2>
+<ol>
+<li>Created a GitHub account at <a href="https://github.com">https://github.com</a>. My GitHub account url is <a href="https://github.com/elliemcavoy">https://github.com/elliemcavoy</a>.</li>
+<li>I pushed my files and code using git into my repository Holgate-Engineering which is dedicated to this project.</li>
+<li>When publishing my project so it can be viewed on the web, I accessed the Settings on my repository. Under GitHub Pages I used the source settings to select the master branch and then save it as the published source. After refreshing the page I was given the url where my page was published. The url I was provided was <a href="https://elliemcavoy.github.io/Holgate-Engineering/">https://elliemcavoy.github.io/Holgate-Engineering/</a></li>
+<li>The run this code on your local machine you can go to my repository <a href="https://github.com/elliemcavoy/Holgate-Engineering/">https://github.com/elliemcavoy/Holgate-Engineering</a> and just above the files you will see a green button allowing you to "Clone or Download". </li>
+</ol>
 
-<h4>Deployment</h4>
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-<h4>Credits</h4>
+<h2 id="credits"><u>Credits</u></h2>
 <h4>Content </h4>
-The text from the testimonials was provided by Pam Gregory (Local resident and customer) & George Barkers LTD (Business Customer).
-The information provided in the 'About Us' and 'Services' sections was provided by Brian McAvoy (Co-owner of Holgate Engineering).
+<ul>
+<li>HTML, CSS and JavaScript Modal Code directly from Bootstrap 4.5. Used on my 'Services' page.</li>
+<li>HTML and CSS Center Form code directly from Bootstrap 4.5. Used on my 'Contact' page.</li>
+<li>Google Fonts for font styles.</li>
+<li>The text from the testimonials was provided by Pam Gregory (Local resident and customer) & George Barkers LTD (Business Customer).</li>
+<li>The information provided in the 'About Us' and 'Services' sections was provided by Brian McAvoy (Co-owner of Holgate Engineering).</li>
+<li>Stack Overflow - Used to find answers to coding problems found during the project.</li>
+</ul>
 
 <h4>Media</h4>
-The photo used on this site was taken from https://www.geograph.org.uk/photo/1016199.
+<ul>
+<li>Font Awesome for all icons <a href="https://fontawesome.com/">https://fontawesome.com/</a></li>
+<li>The photo used on this site was taken from <a href="https://www.geograph.org.uk/photo/1016199">https://www.geograph.org.uk/photo/1016199</a></li>
+<li>Am I responsive website to check the responsiveness on different devices. Also to create the image provided above. <a href="http://ami.responsivedesign.is/">http://ami.responsivedesign.is/</a></li>
 
-Acknowledgements
-I received inspiration for this project from X
+

@@ -334,15 +334,18 @@ section{
     
 /*--------------------Contact Page----------------*/
 .contact-us-section{
+    min-height:900px;
     padding-top:180px;}
 
 @media(max-width:576px){
-    .contact-us-section{padding-top:190px}}
+    .contact-us-section{padding-top:190px;
+                        min-height:600px;}}
+
 
 .contact-heading {
     text-align:center;
     text-transform:uppercase;
-    margin-top:10px;
+    margin-top:20px;
     margin-bottom:15px;
     font-family:'Alfa Slab One';
     color:rgb(241, 121, 9);
@@ -350,7 +353,7 @@ section{
     text-shadow: 10px 10px 16px grey;}
 
 .center-form{
-    padding-top:10px;
+    padding-top:25px;
     margin:0 auto;
     max-width:100%;
     padding-bottom:25px;}
@@ -373,13 +376,14 @@ section{
     border:rgb(241, 121, 9);}
 
 .submit-button{
-    margin-top:10px;}
+    margin-top:20px;}
 
 .button:hover{
     background-color:#585655;
     color:rgb(241, 121, 9);}
 
 .contact-info{
+    height:120%;
     margin:0px;}
 
 #faded-icon{
@@ -447,20 +451,27 @@ footer{
     border-top:3px solid rgb(241, 121, 9);
     font-family:'Raleway', sans-serif;}
 
+#contact-footer{
+    position: absolute;
+}
+
 footer h5{
  color:#fafafa;
  text-decoration: underline dotted;}
 
 .covid a{
-    color:#ef7108bf;
-    font-size:20px;
+    color:#fafafa;
+    font-size:15px;
     padding:10px;}
 
-.covid-risk{color:#ef7108bf;
-    font-size:20px;
-    padding:10px;}
+.covid-risk i{
+    color:#ef7108bf;}
 
-.covid-risk:hover{color:#fafafa;}
+.covid-risk i:hover{color:#fafafa;}
+
+.covid-risk:hover{color:#f58f3bbf;
+        text-shadow: 5px 5px 10px #fafafa;
+        text-decoration:none;}
 
 .contact-us{
     padding-top:5px;}
