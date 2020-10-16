@@ -33,13 +33,8 @@ The aim of this project is to primarily raise awareness that the business exists
 
 <h4 id="wireframes">Wireframes</h4>
 Please see the wireframes for this project:<br>
-<<<<<<< HEAD
 <a href="/assets/documentation/Wireframe.pdf" target="_blank">Desktop</a><br>
 <a href="/assets/documentation/Wireframe-mobile.pdf" target="_blank">Mobile</a>
-=======
-<a href="/workspace/Holgate-Engineering/assets/documentation/Wireframe.pdf" target="_blank">Desktop</a><br>
-<a href="/workspace/Holgate-Engineering/assets/documentation/Wireframe-mobile.pdf" target="_blank">Mobile</a>
->>>>>>> da85e17a91fb0a6bc012e5d01c49484025eb978a
 
 <h4 id="target-audience">Target Audience</h4>
 The target audience for this website can be split into two categories.<br>Firstly it is aimed at potential local customers. These are both business and personal customers who could benefit from the services offered by Holgate Engineering.<br>The second target would be national companies that are looking for a smaller engineering company to perform bespoke or production work to a high standard.<br>
@@ -178,7 +173,6 @@ I manually tested the following to make sure they worked as designed:
 <li>The contact form is visible in the center of the page and the email and phone number are shown at each side</li>
 </ul>
 </ul>
-<<<<<<< HEAD
 
 
 <h2 id="deployment"><u>Deployment</u></h2>
@@ -189,16 +183,6 @@ I manually tested the following to make sure they worked as designed:
 <li>The run this code on your local machine you can go to my repository <a href="https://github.com/elliemcavoy/Holgate-Engineering/">https://github.com/elliemcavoy/Holgate-Engineering</a> and just above the files you will see a green button allowing you to "Clone or Download". </li>
 </ol>
 
-=======
-
-
-<h2 id="deployment"><u>Deployment</u></h2>
-<ol>
-<li>Created a GitHub account at <a href="https://github.com">https://github.com</a>. My GitHub account url is <a href="https://github.com/elliemcavoy">https://github.com/elliemcavoy</a>.</li>
-<li>I pushed my files and code using git into my repository Holgate-Engineering which is dedicated to this project.</li>
-<li>When publishing my project so it can be viewed on the web, I accessed the Settings on my repository. Under GitHub Pages I used the source settings to select the master branch and then save it as the published source. After refreshing the page I was given the url where my page was published. The url I was provided was <a href="https://elliemcavoy.github.io/Holgate-Engineering/">https://elliemcavoy.github.io/Holgate-Engineering/</a></li>
-</ol>
->>>>>>> da85e17a91fb0a6bc012e5d01c49484025eb978a
 
 <h2 id="credits"><u>Credits</u></h2>
 <h4>Content </h4>
