@@ -33,8 +33,8 @@ The aim of this project is to primarily raise awareness that the business exists
 
 <h4 id="wireframes">Wireframes</h4>
 Please see the wireframes for this project:<br>
-<a href="../documentation/Wireframe.pdf" target="_blank">Desktop</a><br>
-<a href="../documentation/Wireframe-mobile.pdf" target="_blank">Mobile</a>
+<a href="../assets/documentation/Wireframe.pdf" target="_blank">Desktop</a><br>
+<a href="/documentation/Wireframe-mobile.pdf" target="_blank">Mobile</a>
 
 <h4 id="target-audience">Target Audience</h4>
 The target audience for this website can be split into two categories.<br>
