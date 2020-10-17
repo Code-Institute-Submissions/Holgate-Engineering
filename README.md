@@ -33,19 +33,25 @@ The aim of this project is to primarily raise awareness that the business exists
 
 <h4 id="wireframes">Wireframes</h4>
 Please see the wireframes for this project:<br>
-<a href="/assets/documentation/Wireframe.pdf" target="_blank">Desktop</a><br>
-<a href="/assets/documentation/Wireframe-mobile.pdf" target="_blank">Mobile</a>
+<a href="../documentation/Wireframe.pdf" target="_blank">Desktop</a><br>
+<a href="../documentation/Wireframe-mobile.pdf" target="_blank">Mobile</a>
 
 <h4 id="target-audience">Target Audience</h4>
-The target audience for this website can be split into two categories.<br>Firstly it is aimed at potential local customers. These are both business and personal customers who could benefit from the services offered by Holgate Engineering.<br>The second target would be national companies that are looking for a smaller engineering company to perform bespoke or production work to a high standard.<br>
-It will also provide a detailed explanation of the types of work that can be carried out. For example, Holgate Engineering regularly repairs the local bakeries mechanical equipment insitu. Similar businesses may be looking for an equivilant service but are unaware of Holgate Engineering's wide range of services on offer.<br>
-Targeting larger companies nationwide will be a secondary objective for the website. Holgate Engineering already has a number of national companies that they provide production parts for. However these were acquired by word of mouth and so the website will be used to showcase to similar customers that they are already successfully completing high volume production work.<br>
-For both categories of audience, the demographic to be targeted will be predominently customers over the age of 25. The reason for this being, a very large proportion of Holgate Engineering's current clients fall into this demographic. Also the style of machinery used in this workshop is more suited to more "Old Fashioned Engineering". This is not to discourage the younger generation but Holgate Engineering needs to website to be suitable for their key customers. 
+The target audience for this website can be split into two categories.<br>
+<ul>
+<li>Firstly it is aimed at potential local customers. These are both business and personal customers who could benefit from the services offered by Holgate Engineering.</li>
+<li>The second target would be national companies that are looking for a smaller engineering company to perform bespoke or production work to a high standard.
+It will also provide a detailed explanation of the types of work that can be carried out. For example, Holgate Engineering regularly repairs the local bakeries mechanical equipment insitu. Similar businesses may be looking for an equivilant service but are unaware of Holgate Engineering's wide range of services on offer.</li>
+<li>Targeting larger companies nationwide will be a secondary objective for the website. Holgate Engineering already has a number of national companies that they provide production parts for. However these were acquired by word of mouth and so the website will be used to showcase to similar customers that they are already successfully completing high volume production work.</li>
+<li>For both categories of audience, the demographic to be targeted will be predominently customers over the age of 25. The reason for this being, a very large proportion of Holgate Engineering's current clients fall into this demographic. Also the style of machinery used in this workshop is more suited to more "Old Fashioned Engineering". This is not to discourage the younger generation but Holgate Engineering needs to website to be suitable for their key customers. </li>
+</ul>
 
 <h4 id="website-aim">Website Aim</h4>
-This website will be used to provide the knowledge to local customers on what the business can offer them and why Holgate Engineering should be chosen.<br>For example, the business owners would like to show that they can offer the same services as an original manufacturer e.g. a car part needing refurbishment can be completed quicker and cheaper by Holgate Engineering than if the part was to be sent back to the original manufacturer.
-<br>It will also aim to supply customers with confidence in the company. This is especially important for a business that has previously had no online presence. 
-<br>In essence, the website will be a window into workshop and needs to be used to gain customer's confidence and lead to an enquiry or job.
+<ul>
+<li>This website will be used to provide the knowledge to local customers on what the business can offer them and why Holgate Engineering should be chosen. For example, the business owners would like to show that they can offer the same services as an original manufacturer e.g. a car part needing refurbishment can be completed quicker and cheaper by Holgate Engineering than if the part was to be sent back to the original manufacturer.</li>
+<li>It will also aim to supply customers with confidence in the company. This is especially important for a business that has previously had no online presence. </li>
+<li>In essence, the website will be a window into workshop and needs to be used to gain customer's confidence and lead to an enquiry or job.</li>
+</ul>
 
 <h4 id="user-stories">User Stories</h4>
 <ul>
@@ -58,10 +64,12 @@ This website will be used to provide the knowledge to local customers on what th
 
 <h4 id="design">Design</h4>
 This project has been tailored towards the target audience, with the aims in mind.<br>
-Engineering is seen as a strong and precise profession therefore the website design mirrors this.<br>
-Based on the existing customer demographic and the fact that Holgate Engineering provides a service that is not very often seen any more, the website needs to be easy to navigate.<br>
-Many visitors to the website may not be particularly tech savy so the layout is easy to read and the menu headings are always shown.<br>
-The design, however, also needs to appeal to the business customers. The strong lines and square shapes will appeal to these customers as it is in keeping with the products and services being advertised.  
+<ul>
+<li>Engineering is seen as a strong and precise profession therefore the website design mirrors this.</li>
+<li>Based on the existing customer demographic and the fact that Holgate Engineering provides a service that is not very often seen any more, the website needs to be easy to navigate.</li>
+<li>Many visitors to the website may not be particularly tech savy so the layout is easy to read and the menu headings are always shown.</li>
+<li>The design, however, also needs to appeal to the business customers. The strong lines and square shapes will appeal to these customers as it is in keeping with the products and services being advertised.</li>
+</ul>
 
 <h5 id="typography">Typography</h5>
 3 Google Fonts were used in this project:
@@ -200,8 +208,4 @@ I manually tested the following to make sure they worked as designed:
 <li>Font Awesome for all icons <a href="https://fontawesome.com/">https://fontawesome.com/</a></li>
 <li>The photo used on this site was taken from <a href="https://www.geograph.org.uk/photo/1016199">https://www.geograph.org.uk/photo/1016199</a></li>
 <li>Am I responsive website to check the responsiveness on different devices. Also to create the image provided above. <a href="http://ami.responsivedesign.is/">http://ami.responsivedesign.is/</a></li>
-<<<<<<< HEAD
-
-=======
->>>>>>> da85e17a91fb0a6bc012e5d01c49484025eb978a
 
